@@ -1,0 +1,39 @@
+header{
+    background-color: #075192;
+    padding-top: 20px;
+}
+.gri-arkaplan{
+    background-color: #d1d6da;
+}
+#ana-menu{
+    background-color: #075192;
+}
+#ana-menu .nav-link{
+    color: white;
+}
+#meb-baslık{
+    color: #075192;
+}
+#okul-baslık{
+    color: #1572c3;
+}
+#baglantilar .list-group-item{
+    color: #d1d6da;
+    background-color: #075192;
+}
+#liste-baslik{
+    height: 70px;
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.slider-aciklama{
+    background-color: rgba(0, 0, 0, 0.41);
+    padding: 10px;
+}
+.carousel-indicators [data-bs-target]{
+    width: 10px;
+    height: 10px;
+    background-color: brown;
+}
+

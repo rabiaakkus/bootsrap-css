@@ -1,0 +1,44 @@
+body{
+    color: var(--bs-primary);
+}
+#dil-menu .nav-link, #icon-menu .nav-link{
+    color: var(--bs-white);
+}
+.d-flex{
+    color:floralwhite;
+}
+.bottom-logo{
+    background-color: #e9e5e0 ;
+}
+
+
+/* türü search olan input elemanlaın placeholder dengenini değiştirmek */
+input[type="search"]::placeholder{
+    color: aliceblue;
+}
+
+.carousel-indicators [ data-bs-target]{
+    height: 10px;
+    width: 10px;
+    border-radius: 100%;
+    border: solid rgb(94, 59, 30) 3px;
+    box-shadow: none;
+}
+.card-ic{
+    border: 15px white solid;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 5px;
+
+}
+footer{
+    background-color:rgb(56, 29, 7);
+}
+.nav-item a:hover{
+    color: rgb(65, 43, 29);
+}
+input[type="search"]:focus{
+    box-shadow: none;
+}#kart{
+    margin: -70px;
+}
